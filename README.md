@@ -1,2 +1,2 @@
-# LicensePlateRecognitionTurkish
-Project to detect and read license plates
+# HouseStreetRecognition
+Project to house and street images

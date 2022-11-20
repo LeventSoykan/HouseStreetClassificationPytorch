@@ -1,2 +1,2 @@
 # HouseStreetRecognition
-Project to house and street images
+Project to classify house and street images
